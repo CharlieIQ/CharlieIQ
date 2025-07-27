@@ -1,6 +1,8 @@
 # Hi! I'm Charlie 
 
-I'm a 3rd Year Computer Science student at Dalhousie University. Currently a SWE Intern @ Cognizant, and previously a 2x Intern @ IBM
+I'm a 3rd Year Computer Science student at Dalhousie University. 
+
+Currently a SWE Intern @ Cognizant, and previously a 2x Intern @ IBM
 
 Mostly working with:  
 &nbsp;&nbsp;&nbsp;&nbsp;• React + Tailwind (frontend development)  
@@ -14,9 +16,9 @@ Mostly working with:
 
 - 🤖 **Agentic AI Devteam** – My own AI software development team
 - 🐶 **Finnlang** – My own programming language built in Rust
-- 🐽 **Piggle** - Web game with an adventure mode & level editor
+- 🐽 **[Piggle](https://charlieiq.github.io/piggle/)** - Web game with an adventure mode & level editor
 - 🎲 **Bingo Card Maker** – Customizable bingo cards built with React
-
+- 👤 **[Personal Website](https://charlieiq.github.io/charlie-mclaughlin/)** - My personal website made in React and styled with Tailwind
 ---
 
 ## 🛠️ Languages & Tools I use
@@ -46,14 +48,6 @@ Mostly working with:
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white&style=flat)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
-
----
-
-## Fun Facts about me
-
-- My language project is named after my dog Finn  
-- My favourite sorting algorithm is BogoSort
-- On my first week of my Cognizant internship, I accidentally committed `node_modules` to `main`
 
 ---
 
