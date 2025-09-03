@@ -2,7 +2,7 @@
 
 I'm a 3rd Year Computer Science student at Dalhousie University. 
 
-Currently a SWE Intern @ Cognizant, and previously a 2x Intern @ IBM
+Previously a SWE Intern @ Cognizant, and previously a 2x Intern @ IBM
 
 Mostly working with:  
 &nbsp;&nbsp;&nbsp;&nbsp;• React + Tailwind (frontend development)  
