@@ -21,7 +21,7 @@ Mostly working with:
 - 👤 **[Personal Website](https://charlieiq.github.io/charlie-mclaughlin/)** - My personal website made in React and styled with Tailwind
 ---
 
-## 🛠️ Languages & Tools I use
+## Languages & Tools I use
 
 ### 🧾 Languages  
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
@@ -51,6 +51,11 @@ Mostly working with:
 
 ---
 
-## 📫 Reach Me
+## My Current LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/charlie_mcl?theme=light&font=Montserrat&ext=contest)
+
+---
+
+## Reach Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/charlie-mclaughlin-s13/)
