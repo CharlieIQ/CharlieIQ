@@ -17,7 +17,8 @@ Mostly working with:
 - 🤖 **Agentic AI Devteam** – My own AI software development team
 - 🐶 **Finnlang** – My own programming language built in Rust
 - 🐽 **[Piggle](https://charlieiq.github.io/piggle/)** - Web game with an adventure mode & level editor
-- 🎲 **Bingo Card Maker** – Customizable bingo cards built with React
+- 📊 **[Algorithm Visualizer Tool](https://charlieiq.github.io/algorithm-visualizer/)** - Algorithm visualizer tool I made to help me with a class
+- 🎲 **Bingo Card Maker** – Customizable bingo cards built with React (made for a Minecraft movie bingo card)
 - 👤 **[Personal Website](https://charlieiq.github.io/charlie-mclaughlin/)** - My personal website made in React and styled with Tailwind
 ---
 
@@ -32,7 +33,7 @@ Mostly working with:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 
-### 📚 Frameworks & Libraries  
+### Frameworks & Libraries  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat)
@@ -41,7 +42,7 @@ Mostly working with:
 ![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?logo=vitest&logoColor=white&style=flat)
 ![JUnit](https://img.shields.io/badge/-JUnit-25A162?logo=java&logoColor=white&style=flat)
 
-### 🧰 Developer Tools  
+### Developer Tools  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
