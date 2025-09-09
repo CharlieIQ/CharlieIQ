@@ -18,7 +18,6 @@ Mostly working with:
 - 🐶 **Finnlang** – My own programming language built in Rust
 - 🐽 **[Piggle](https://charlieiq.github.io/piggle/)** - Web game with an adventure mode & level editor
 - 📊 **[Algorithm Visualizer Tool](https://charlieiq.github.io/algorithm-visualizer/)** - Algorithm visualizer tool I made to help me with a class
-- 🎲 **Bingo Card Maker** – Customizable bingo cards built with React (made for a Minecraft movie bingo card)
 - 👤 **[Personal Website](https://charlieiq.github.io/charlie-mclaughlin/)** - My personal website made in React and styled with Tailwind
 ---
 
@@ -53,7 +52,7 @@ Mostly working with:
 ---
 
 ## My Current LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/charlie_mcl?theme=light&font=Montserrat&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/charlie_mcl?theme=dark&font=Montserrat&ext=contest)
 
 ---
 
