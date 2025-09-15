@@ -1,4 +1,4 @@
-# Hi! I'm Charlie 
+# Hi! I'm [Charlie](https://charlieiq.github.io/charlie-mclaughlin/)
 
 I'm a 3rd Year Computer Science student at Dalhousie University. 
 
@@ -14,16 +14,16 @@ Mostly working with:
 
 ## My Public Projects
 
-- 🤖 **Agentic AI Devteam** – My own AI software development team
-- 🐶 **Finnlang** – My own programming language built in Rust
-- 🐽 **[Piggle](https://charlieiq.github.io/piggle/)** - Web game with an adventure mode & level editor
+- 🤖 **Agentic AI Devteam** – My agentic AI software development team that can build anything you can imagine
+- 🐶 **Finnlang** – My programming language built in Rust
+- 🐽 **[Piggle](https://charlieiq.github.io/piggle/)** - Web game with an adventure mode, level editor, and user level browser
 - 📊 **[Algorithm Visualizer Tool](https://charlieiq.github.io/algorithm-visualizer/)** - Algorithm visualizer tool I made to help me with a class
 - 👤 **[Personal Website](https://charlieiq.github.io/charlie-mclaughlin/)** - My personal website made in React and styled with Tailwind
 ---
 
 ## Languages & Tools I use
 
-### 🧾 Languages  
+### Languages  
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
@@ -31,6 +31,8 @@ Mostly working with:
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
 
 ### Frameworks & Libraries  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
@@ -53,6 +55,8 @@ Mostly working with:
 
 ## My Current LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/charlie_mcl?theme=dark&font=Montserrat&ext=contest)
+
+Always on that LeetCode grind
 
 ---
 
