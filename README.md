@@ -1,6 +1,6 @@
 # Hi! I'm [Charlie](https://charlieiq.github.io/charlie-mclaughlin/)
 
-I'm a 3rd Year Computer Science student at Dalhousie University. 
+I'm a 4th Year Computer Science student at Dalhousie University. 
 
 Previously a SWE Intern @ Cognizant, and previously a 2x Intern @ IBM
 
